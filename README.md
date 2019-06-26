@@ -1,1 +1,1 @@
-# Laravel auth system with admin dashboard
+## Laravel auth system with admin dashboard
