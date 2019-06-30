@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bfd1958f-006b-4c39-930a-3d4e2bc4faaa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/admin/edit-password.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/AdminController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/AdminController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/index.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
-    </list>
+    <list default="true" id="bfd1958f-006b-4c39-930a-3d4e2bc4faaa" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +15,7 @@
     <session id="-896399644">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
@@ -74,8 +67,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/admin/index.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="407">
-              <caret line="35" column="33" lean-forward="true" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+            <state relative-caret-position="361">
+              <caret line="33" column="104" selection-start-line="33" selection-start-column="95" selection-end-line="33" selection-end-column="104" />
             </state>
           </provider>
         </entry>
@@ -265,8 +258,8 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1900" />
-    <option name="y" value="99" />
+    <option name="x" value="39" />
+    <option name="y" value="-24" />
     <option name="width" value="1936" />
     <option name="height" value="1096" />
   </component>
@@ -436,18 +429,17 @@
       <workItem from="1561189037033" duration="2065000" />
       <workItem from="1561274524734" duration="14755000" />
       <workItem from="1561359609901" duration="10024000" />
-      <workItem from="1561873756687" duration="4833000" />
+      <workItem from="1561873756687" duration="5252000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68510000" />
+    <option name="totallyTimeSpent" value="68929000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1928" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26918977" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26918977" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -462,7 +454,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.22577092" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.22577092" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -743,8 +735,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/admin/index.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="407">
-          <caret line="35" column="33" lean-forward="true" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+        <state relative-caret-position="361">
+          <caret line="33" column="104" selection-start-line="33" selection-start-column="95" selection-end-line="33" selection-end-column="104" />
         </state>
       </provider>
     </entry>
