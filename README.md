@@ -1,6 +1,7 @@
 # Laravel auth system with admin dashboard
-## How to install
+## Installing
 - php artisan migrate
 - php artisan db:seed
+### login
 email:admin@example.com
 password:secret
