@@ -16,3 +16,5 @@ Route::get('/', function () {
 });
 Auth::routes(['register' => false]);
 Route::resource('admin','AdminController');
+Route::get('edit-password/{id}','AdminController@edit_password')->name('edit-password');
+Route::post('update-password/{id}','AdminController@update_password')->name('update-password');

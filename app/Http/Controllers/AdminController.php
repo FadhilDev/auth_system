@@ -130,4 +130,27 @@ class AdminController extends Controller
         return redirect()->route('admin.index')
             ->with('success','User deleted successfully');
     }
+    /**
+    edit password
+     */
+    public function edit_password($id)
+    {
+        $user = User::find($id);
+        return view('admin.edit-password',compact('user'));
+    }
+    /**
+     update password
+     */
+    public function update_password(Request $request, $id)
+    {
+        $request->validate([
+            'password' => 'required|min:6|confirmed',
+        ]);
+        $user=User::find($id);
+
+        $user->password = Hash::make($request['password']);
+        $user->save();
+        return redirect()->route('admin.index')
+            ->with('success','User password changed successfully');
+    }
 }
