@@ -2,6 +2,6 @@
 ## Installing
 - php artisan migrate
 - php artisan db:seed
-### login
-email:admin@example.com
-password:secret
+### Login
+Email:admin@example.com
+Password:secret
