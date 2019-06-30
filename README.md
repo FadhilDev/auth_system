@@ -3,5 +3,5 @@
 - php artisan migrate
 - php artisan db:seed
 ### Login
-Email:admin@example.com  
-Password:secret  
+Email: admin@example.com  
+Password: secret  
